@@ -1,4 +1,4 @@
-# pruebatravcelocity
+# prueba tecnica travcelocity
 **Escenarios**  
 
 - El proyecto cuenta con 20 escenarios 6 automatizados y 14 manuales los cuales se encuentran en la ruta: `src\test\resources\features`  
